@@ -1,8 +1,8 @@
 <?php
 
-define('MVCDIR', 'C:/xampp/htdocs/diverjugue/');
-define('PROJECTDIR','C:/xampp/htdocs/diverjugue/');
-define('URL', 'http://localhost:90/diverjugue/');
+define('MVCDIR', 'https://manargil.github.io/manargil/');
+define('PROJECTDIR','https://manargil.github.io/manargil/');
+define('URL', 'https:443//manargil.github.io/manargil/');
 define('HOST','localhost');
 define('DB','diverjugue');
 define('USER','root');
